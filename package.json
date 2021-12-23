@@ -1,0 +1,19 @@
+{
+  "name": "spanker",
+  "version": "0.0.1",
+  "description": "vaksama hediye",
+  "main": "spankek.js",
+  "scripts": {
+    "test": "node spankek.js"
+  },
+  "author": "Spanker",
+  "license": "ISC",
+  "dependencies": {
+    "discord-logs": "^2.0.1",
+    "discord.js": "^12.3.1",
+    "discord.js-selfbot": "^12.0.2",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.20"
+  },
+  "keywords": []
+}
